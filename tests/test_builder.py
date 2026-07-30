@@ -94,4 +94,3 @@ class TestExperimentBuilder:
             assert experiment_builder._product.model == "test_model"
             assert experiment_builder._product.branch == "test_branch"
             assert experiment_builder._product.hpc == "test_hpc"
-
