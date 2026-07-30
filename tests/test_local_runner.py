@@ -398,3 +398,4 @@ async def test_set_job_status(
 
         for flag in expected_flags:
             assert flag in command
+
